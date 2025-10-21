@@ -1,1 +1,10 @@
+/bin
+/obj
+/.vs
 /.vscode
+*.user
+*.suo
+.vscode/
+docker-compose.override.yml
+local.settings.json
+secrets.json

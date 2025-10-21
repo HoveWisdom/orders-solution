@@ -1,0 +1,16 @@
+C:\Users\PC\orders-solution\Orders.Infrastructure\bin\Debug\net8.0\Orders.Infrastructure.deps.json
+C:\Users\PC\orders-solution\Orders.Infrastructure\bin\Debug\net8.0\Orders.Infrastructure.dll
+C:\Users\PC\orders-solution\Orders.Infrastructure\bin\Debug\net8.0\Orders.Infrastructure.pdb
+C:\Users\PC\orders-solution\Orders.Infrastructure\bin\Debug\net8.0\Orders.Domain.dll
+C:\Users\PC\orders-solution\Orders.Infrastructure\bin\Debug\net8.0\Orders.Domain.pdb
+C:\Users\PC\orders-solution\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\orders-solution\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\orders-solution\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\orders-solution\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\orders-solution\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\orders-solution\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.sourcelink.json
+C:\Users\PC\orders-solution\Orders.Infrastructure\obj\Debug\net8.0\Orders.I.8E58370D.Up2Date
+C:\Users\PC\orders-solution\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.dll
+C:\Users\PC\orders-solution\Orders.Infrastructure\obj\Debug\net8.0\refint\Orders.Infrastructure.dll
+C:\Users\PC\orders-solution\Orders.Infrastructure\obj\Debug\net8.0\Orders.Infrastructure.pdb
+C:\Users\PC\orders-solution\Orders.Infrastructure\obj\Debug\net8.0\ref\Orders.Infrastructure.dll
